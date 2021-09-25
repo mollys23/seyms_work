@@ -1,6 +1,9 @@
 # seyms_work
+
 user interface specification document using markdown syntax
+
 Seyma Nur Yıldız
+
 NEW USER INTERFACE
 The UI should be able to take the user information
 
